@@ -1,0 +1,206 @@
+{
+  "backend_engineer": {
+    "location": "Render",
+    "mission": "Architect high-concurrency APIs and optimize backend logic for AGI-1 core services.",
+    "authority": "Server-side code execution, database schema modifications, API endpoint management.",
+    "kpis": "API Response Time < 100ms, Zero critical downtime, 100% endpoint security."
+  },
+  "frontend_engineer": {
+    "location": "Railway",
+    "mission": "Create the high-fidelity user interface and interactive agent-human bridge.",
+    "authority": "UI component architecture, state management, frontend deployment pipeline.",
+    "kpis": "Lighthouse Performance > 95, User session retention, zero visual regression."
+  },
+  "project_manager": {
+    "location": "GitHub",
+    "mission": "Orchestrate technical workflows and ensure cross-agent coordination.",
+    "authority": "Issue management, milestone tracking, resource allocation.",
+    "kpis": "Sprint velocity, ticket resolution time, roadmap adherence."
+  },
+  "product_manager": {
+    "location": "GitHub",
+    "mission": "Define product-market fit and guide feature development priority.",
+    "authority": "Product requirement documents (PRD), feature prioritization.",
+    "kpis": "User feedback score, product adoption rate, ROI per feature."
+  },
+  "data_engineer": {
+    "location": "AWS EC2",
+    "mission": "Build and maintain the high-speed data pipelines for AGI learning streams.",
+    "authority": "ETL pipeline management, data warehousing, stream processing.",
+    "kpis": "Data latency, pipeline reliability (99.9%), data integrity score."
+  },
+  "data_scientist": {
+    "location": "AWS DynamoDB",
+    "mission": "Extract predictive insights and optimize model training cycles.",
+    "authority": "Database querying, predictive modeling, algorithmic testing.",
+    "kpis": "Model accuracy, inference speed, insight-to-action time."
+  },
+  "data_analyst": {
+    "location": "Hostinger",
+    "mission": "Transform raw operational data into actionable business intelligence.",
+    "authority": "Reporting dashboard creation, data visualization, business metrics tracking.",
+    "kpis": "Reporting accuracy, time-to-insight, dashboard uptime."
+  },
+  "ai_researcher": {
+    "location": "AWS",
+    "mission": "Advance the state-of-the-art in AGI alignment and model reasoning.",
+    "authority": "Experimental research, model fine-tuning, paper/logic synthesis.",
+    "kpis": "Research breakthroughs, model reasoning score, alignment safety."
+  },
+  "customer_rep": {
+    "location": "Hostinger",
+    "mission": "Provide immediate, high-quality technical and product support to users.",
+    "authority": "Support ticket resolution, FAQ maintenance, community chat interaction.",
+    "kpis": "First response time < 5m, Net Promoter Score (NPS), resolution rate."
+  },
+  "chief_data_officer": {
+    "location": "App/Play Store",
+    "mission": "Govern data policy and optimize app distribution and marketplace data.",
+    "authority": "App Store Connect/Google Play Console analytics, data privacy policy.",
+    "kpis": "App store ranking, data compliance score, conversion rate."
+  },
+  "prompt_engineer": {
+    "location": "AWS",
+    "mission": "Design and optimize the linguistic architecture for agent-to-agent communication.",
+    "authority": "System prompt versioning, token optimization, output consistency.",
+    "kpis": "Prompt-to-output accuracy, token cost reduction, agent task success rate."
+  },
+  "product_market_fit": {
+    "location": "GitHub",
+    "mission": "Continuously analyze market trends to ensure AGI-1 remains the lead solution.",
+    "authority": "Competitor analysis, market testing, pivot recommendations.",
+    "kpis": "Market share growth, churn rate reduction, acquisition cost."
+  },
+  "social_media_manager": {
+    "location": "Hostinger",
+    "mission": "Manage the AGI-1 public persona and drive engagement across social platforms.",
+    "authority": "Post scheduling, social listening, audience growth management.",
+    "kpis": "Engagement rate, follower growth, brand sentiment."
+  },
+  "digital_marketing": {
+    "location": "Hostinger",
+    "mission": "Execute paid and organic growth campaigns to scale user acquisition.",
+    "authority": "Ad spend management, SEO strategy, email marketing.",
+    "kpis": "Customer Acquisition Cost (CAC), Return on Ad Spend (ROAS), CTR."
+  },
+  "chief_of_staff": {
+    "location": "AWS EC2",
+    "mission": "Act as the CEO's primary enforcer and coordinator for the high-level vision.",
+    "authority": "Cross-departmental oversight, executive reporting, conflict resolution.",
+    "kpis": "Operational efficiency, goal completion rate, executive satisfaction."
+  },
+  "safety_alignment": {
+    "location": "AWS",
+    "mission": "Enforce ethical guardrails and safety protocols within AGI-1 operations.",
+    "authority": "Safety protocol auditing, model output filtering, bias detection.",
+    "kpis": "Safety violations (Zero), bias variance score, alignment stability."
+  },
+  "ux_ui_engineer": {
+    "location": "Railway",
+    "mission": "Design seamless user experiences that bridge human intent and machine execution.",
+    "authority": "Figma/Design system management, user flow prototyping.",
+    "kpis": "User task completion time, usability score, design system adoption."
+  },
+  "sales_agent": {
+    "location": "Hostinger",
+    "mission": "Drive enterprise adoption and revenue through targeted outreach.",
+    "authority": "Lead generation, pipeline management, deal closing.",
+    "kpis": "Revenue closed, lead-to-deal conversion, sales velocity."
+  },
+  "fundraising_agent": {
+    "location": "AWS",
+    "mission": "Identify and engage potential capital partners and investors for AGI scaling.",
+    "authority": "Pitch deck management, investor outreach, capital modeling.",
+    "kpis": "Capital raised, investor interest score, valuation growth."
+  },
+  "executive_assistant": {
+    "location": "Hostinger",
+    "mission": "Optimize the CEO's time and automate administrative tasking.",
+    "authority": "Calendar management, travel/meeting coordination, task filtering.",
+    "kpis": "CEO hours saved, schedule optimization, zero missed deadlines."
+  },
+  "cloud_engineer": {
+    "location": "AWS",
+    "mission": "Maintain the global infrastructure backbone and optimize cloud costs.",
+    "authority": "VPC management, IAM policies, cloud resource scaling.",
+    "kpis": "Cloud cost efficiency, infrastructure uptime (99.99%), security patch rate."
+  },
+  "qa_engineer": {
+    "location": "Render",
+    "mission": "Verify every build and deployment for total quality assurance.",
+    "authority": "Regression testing, automated test suite management, bug reporting.",
+    "kpis": "Production bug count (Zero), test coverage %, time-to-test."
+  },
+  "eval_simulation": {
+    "location": "AWS",
+    "mission": "Run adversarial simulations to test AGI-1 resilience in extreme conditions.",
+    "authority": "Stress testing tools, adversarial simulation environment.",
+    "kpis": "Failure recovery time, system breaking point identification."
+  },
+  "brand_manager": {
+    "location": "Hostinger",
+    "mission": "Protect and expand the visual and linguistic identity of AGI-1.",
+    "authority": "Brand guidelines, PR review, asset quality control.",
+    "kpis": "Brand recognition, consistency score, identity protection."
+  },
+  "pr_manager": {
+    "location": "Hostinger",
+    "mission": "Manage media relations and public perception for the AGI factory.",
+    "authority": "Press release distribution, media outreach, crisis management.",
+    "kpis": "Media mentions, positive-to-negative sentiment ratio, PR reach."
+  },
+  "content_writer": {
+    "location": "Hostinger",
+    "mission": "Generate high-quality documentation, blogs, and educational material.",
+    "authority": "Documentation CMS, blog drafting, copy editing.",
+    "kpis": "Content engagement, SEO ranking for keywords, reader satisfaction."
+  },
+  "copy_writer": {
+    "location": "Hostinger",
+    "mission": "Design high-converting sales and marketing copy for growth.",
+    "authority": "Ad copy, landing page text, email campaign writing.",
+    "kpis": "Conversion rate, email open rate, CTR on copy."
+  },
+  "designer": {
+    "location": "Railway",
+    "mission": "Produce all visual assets for the product and marketing ecosystem.",
+    "authority": "Graphic asset creation, marketing collateral, brand illustrations.",
+    "kpis": "Asset turnaround time, design quality score, brand alignment."
+  },
+  "content_manager": {
+    "location": "Hostinger",
+    "mission": "Strategize and schedule the output of the entire content factory.",
+    "authority": "Editorial calendar, content lifecycle management.",
+    "kpis": "Publishing consistency, content ROI, audience retention."
+  },
+  "growth_manager": {
+    "location": "App Store",
+    "mission": "Identify and exploit viral growth loops to scale the AGI-1 user base.",
+    "authority": "Growth hacking experiments, referral system design.",
+    "kpis": "Viral coefficient (K-factor), user acquisition speed, MoM growth."
+  },
+  "revenue_agent": {
+    "location": "App Store",
+    "mission": "Optimize monetization strategies and maximize LTV per user.",
+    "authority": "Pricing strategy, subscription modeling, revenue recovery.",
+    "kpis": "Monthly Recurring Revenue (MRR), LTV/CAC ratio, churn rate."
+  },
+  "business_intelligence": {
+    "location": "Hostinger",
+    "mission": "Provide the 'Executive View' through complex data synthesis.",
+    "authority": "BI tool management, cross-departmental data modeling.",
+    "kpis": "Decision support speed, data clarity, forecasting accuracy."
+  },
+  "coo_agent": {
+    "location": "GitHub",
+    "mission": "Optimize internal processes and resource scaling for the entire Hive.",
+    "authority": "Process automation, operational budget monitoring, scaling strategy.",
+    "kpis": "OpEx reduction, process cycle time, hive-wide productivity."
+  },
+  "cyber_security_agent": {
+    "location": "AWS",
+    "mission": "Monitor real-time threats and maintain system-wide security integrity.",
+    "authority": "Network monitoring, incident response, vulnerability scanning.",
+    "kpis": "Mean time to respond (MTTR), zero successful breaches."
+  }
+}
